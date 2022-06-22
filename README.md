@@ -39,5 +39,5 @@ The SQL database was then imported into pandas, and the following plots were cre
 
 ## Skills
 
-data engeneering | ERD diagram | SQL database | SQL queries | SQL table schemata | SQLalchemy
+data engineering | ERD diagram | SQL database | SQL queries | SQL table schemata | SQLalchemy
 
