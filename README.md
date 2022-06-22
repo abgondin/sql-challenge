@@ -30,9 +30,14 @@ Once I had a complete SQL database, the following information was extracted:
 The SQL database was then imported into pandas, and the following plots were created:
 
 1. A histogram with the most common salary ranges for employees.
+
+<img width="631" alt="Screen Shot 2022-06-22 at 9 20 23 pm" src="https://user-images.githubusercontent.com/77761497/175017346-15e4e3c7-5cf1-453f-9555-1baf8500742e.png">
+
 2. A bar chart of average salary by title.
+
+<img width="404" alt="Screen Shot 2022-06-22 at 9 20 45 pm" src="https://user-images.githubusercontent.com/77761497/175017402-6fde8450-88ab-4ccc-a22d-6132228ef727.png">
 
 ## Skills
 
-data engeneering | ERD diagram | SQL database | SQL queries | SQL table schemata
+data engeneering | ERD diagram | SQL database | SQL queries | SQL table schemata | SQLalchemy
 
